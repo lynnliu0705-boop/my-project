@@ -1,5 +1,19 @@
-/* style.css */
 body {
-  font-family: Arial, sans-serif;
-  background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+p {
+    color: #555;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 20px;
 }
